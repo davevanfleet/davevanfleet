@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @davevanfleet
 ## 👀 I’m interested in ...  
-- Full stack software development, especially backend web development
+- Full stack software development, especially frontend web development
 ## 🌱 I’m always improving my skills in ...  
 - rails
 - react
