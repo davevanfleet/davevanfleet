@@ -1,14 +1,6 @@
 # 👋 Hi, I’m @davevanfleet
-## 👀 I’m interested in ...  
-- Full stack software development, especially frontend web development
-## 🌱 I’m always improving my skills in ...  
-- rails
-- react
-- dotnet
-- flask
-## 💞️ I’m looking to collaborate on ...
-- Projects to promote good, help others, and solve big problems
+## 👀 I’m a ...  
+Collaborative staff software engineer with experience in Typescript, React.js, Node.js, and Swift. I'm passionate about tackling complex technical challenges.
 ## 📫 How to reach me ...
-- email: dvfleet413@gmail.com
-- Twitter: [@dvfleet413](https://twitter.com/dvfleet413)
+- email: davidvanfleet@icloud.com
 - LinkedIn: [david-van-fleet](linkedin.com/in/david-van-fleet/)
