@@ -3,4 +3,4 @@
 Collaborative staff software engineer with experience in Typescript, React.js, Node.js, and Swift. I'm passionate about tackling complex technical challenges.
 ## 📫 How to reach me ...
 - email: davidvanfleet@icloud.com
-- LinkedIn: [david-van-fleet](linkedin.com/in/david-van-fleet/)
+- LinkedIn: [david-van-fleet](https://linkedin.com/in/david-van-fleet/)
