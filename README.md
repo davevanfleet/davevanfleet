@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @davevanfleet
 ## 👀 I’m a ...  
-Collaborative staff software engineer with experience in Typescript, React.js, Node.js, and Swift. I'm passionate about tackling complex technical challenges.
+Staff Software Engineer | React.js | Node.js | Swift | Dedicated to Collaborative Innovation and Finding User-Centric Solutions 🚀
 ## 📫 How to reach me ...
 - email: davidvanfleet@icloud.com
 - LinkedIn: [david-van-fleet](https://linkedin.com/in/david-van-fleet/)
